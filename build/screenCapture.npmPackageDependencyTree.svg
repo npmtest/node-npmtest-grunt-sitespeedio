@@ -160,7 +160,7 @@
 <tspan x="10" y="2522">  │ │ │ │ │ │ │ ├── filename-regex@2.0.0 </tspan>
 <tspan x="10" y="2538">  │ │ │ │ │ │ │ ├── is-extglob@1.0.0 </tspan>
 <tspan x="10" y="2554">  │ │ │ │ │ │ │ ├── is-glob@2.0.1 </tspan>
-<tspan x="10" y="2570">  │ │ │ │ │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="2570">  │ │ │ │ │ │ │ ├─┬ kind-of@3.2.0 </tspan>
 <tspan x="10" y="2586">  │ │ │ │ │ │ │ │ └── is-buffer@1.1.5 </tspan>
 <tspan x="10" y="2602">  │ │ │ │ │ │ │ ├─┬ normalize-path@2.1.1 </tspan>
 <tspan x="10" y="2618">  │ │ │ │ │ │ │ │ └── remove-trailing-separator@1.0.1 </tspan>
